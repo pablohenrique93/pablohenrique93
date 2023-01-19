@@ -1,6 +1,7 @@
 ### Hello, I'm Pablo!👋
 
-Data Engineering student at SoulCode Academy. Data Engineer passionate about music, games, physical activity and the power of technology. Driven by challenges that enable the transformation of problems into impactful solutions and with a responsible, communicative and adaptable profile, I am always looking to contribute to diverse and inclusive environments that connect me with new people and their worlds, take me out of my comfort zone and enable the construction of knowledge of professional and personal value. Proudly from Salvador, Brazil 🇧🇷
+Data Engineering student at SoulCode Academy. I am a Data Engineer with a passion for music, games, physical activity, and the power of technology. Driven by challenges that enable the transformation of problems into impactful solutions and with a responsible, communicative and adaptable profile, I am always looking to contribute to diverse and inclusive environments that connect me to new people and their worlds, take me out of my comfort zone and enable the construction of knowledge of professional and personal value. Proudly from Salvador, Brazil 🇧🇷
+
 
 📫 Get in touch!
 
@@ -35,14 +36,11 @@ Data Engineering student at SoulCode Academy. Data Engineer passionate about mus
   </a>
 </p>
 
-Here are some ideas to get you started:
+- 📚 Graduated in Data Engineering at SoulCode Academy
+- 🤔 I am looking for my first experience in the data area, to add knowledge and put into practice all the learning acquired
+- 💬 Ask me about: ETL processes and their tools
+- 📫 How to reach me: pablitohenrique3@gmail.com
+- 😄 Pronouns: he/him/his (ele/dele/seu).
+- ⚡ Fun fact: I am fascinated by tattoos and piercings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
