@@ -43,4 +43,39 @@ Data Engineering student at SoulCode Academy. I am a Data Engineer with a passio
 - 😄 Pronouns: he/him/his (ele/dele/seu).
 - ⚡ Fun fact: I am fascinated by tattoos and piercings
 
+#### Languages I've already used:
+
+<a>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+  </a>
+  
+#### Technologies I've worked with:
+
+<p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  </a>
+    <a>
+    <img  src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </a>
+  
+  <a>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  </a>
+</p>
+
+<br />
+<br />
+
+<br >
+
 
