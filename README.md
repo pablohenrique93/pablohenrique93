@@ -44,7 +44,7 @@ Data Engineering student at SoulCode Academy. I am a Data Engineer with a passio
 - ⚡ Fun fact: I am fascinated by tattoos and piercings
 
 #### Languages I've already used:
-
+<p align="center">
 <a>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
   </a>
