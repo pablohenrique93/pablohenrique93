@@ -1,6 +1,6 @@
 ### Hello, I'm Pablo!👋
 
-Data Engineering student at SoulCode Academy. I am a Data Engineer with a passion for music, games, physical activity, and the power of technology. Driven by challenges that enable the transformation of problems into impactful solutions and with a responsible, communicative and adaptable profile, I am always looking to contribute to diverse and inclusive environments that connect me to new people and their worlds, take me out of my comfort zone and enable the construction of knowledge of professional and personal value. Proudly from Salvador, Brazil 🇧🇷
+Jr Data Engineer graduated from SoulCode Academy. I am a data engineer with a passion for music, games, physical activity, and the power of technology. Driven by challenges that allow the transformation of problems into impactful solutions and with a responsible, communicative, and adaptable profile, I always seek to contribute to diverse and inclusive environments that connect me to new people and their worlds, take me out of my comfort zone, and allow me to build knowledge of professional and personal value. Proudly from Salvador, Brazil 🇧🇷
 
 
 📫 Get in touch!
