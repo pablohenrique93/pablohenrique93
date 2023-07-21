@@ -72,6 +72,9 @@ Jr Data Engineer graduated from SoulCode Academy. I am a data engineer with a pa
   <a>
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
 </p>
 
 <br />
